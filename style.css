@@ -220,7 +220,7 @@ body {
 .numbers-block {
   background-color: #fecd26;
   width: 86vw;
-  height: 35vh;
+  height: 30vh;
   margin-left: 7vw ;
   padding: 50px 40px;
   position: relative;
@@ -247,7 +247,7 @@ body {
 }
 
 .numbers-box h2 {
-  font-size: 2rem;
+  font-size: 3rem;
   font-weight: 600;
   color: #000;
   flex: 1 1 250px;
@@ -267,12 +267,12 @@ body {
 }
 
 .num-item strong {
-  font-size: 1.5rem;
+  font-size: 2rem;
   color: #000;
 }
 
 .num-item p {
-  font-size: 0.95rem;
+  font-size: 1.2rem;
   margin-top: 4px;
   color: #333;
 }
@@ -411,7 +411,7 @@ body {
 }
 
 .promo-right img {
-  top: -19.5vh;
+  top: -22.1vh;
   position: absolute;
   left: 40vw;
   height: 70vh;
@@ -463,7 +463,7 @@ body {
 .benefit-cards {
   display: flex;
   justify-content: center;
-  gap: 30px;
+  gap: 90px;
   flex-wrap: wrap;
 }
 
@@ -471,7 +471,7 @@ body {
   background: #fff;
   border: 1px solid #111;
   padding: 30px 20px;
-  width: 240px;
+  width: 250px;
   position: relative;
   box-shadow: 6px 6px 0 #fdd835;
   transition: all 0.3s ease;
